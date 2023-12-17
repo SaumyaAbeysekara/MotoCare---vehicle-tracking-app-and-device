@@ -39,4 +39,4 @@ This exciting project involves the development of a GPS tracker using the mighty
 ## Project Status
 Actively maintained
 
-![Device](device.jpg)
+![Device](images/device.jpg)
