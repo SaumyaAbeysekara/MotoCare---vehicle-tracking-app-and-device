@@ -30,6 +30,8 @@ This exciting project involves the development of a GPS tracker using the mighty
   <em>Display Location</em>
 </p>
 
+<p style="margin-bottom: 20px;"></p>
+
 <p align="center">
   <img src="images/Screenshot%202023-12-17%20121357.png" alt="Screenshot" width="400" />
   <br>
