@@ -1,4 +1,3 @@
-# MotoCare---vehicle-tracking-app-and-device
 # GPS Tracker with ATmega32, NEO-6M GPS, SIM900A GPRS, and 16x2 LED Display
 
 ## Overview
