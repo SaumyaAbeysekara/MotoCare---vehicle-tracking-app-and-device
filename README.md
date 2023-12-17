@@ -25,7 +25,7 @@ This exciting project involves the development of a GPS tracker using the mighty
 4. The process repeats every 5 minutes, providing regular updates to the ThingSpeak channel.
 
 <p align="center">
-  <img src="images/device.png" alt="Device" width="400" />
+  <img src="images/device.png" alt="Device" width="200" />
   <br>
   <em>Display Location</em>
 </p>
