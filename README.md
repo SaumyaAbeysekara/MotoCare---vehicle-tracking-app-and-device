@@ -23,6 +23,9 @@ This exciting project involves the development of a GPS tracker using the mighty
 2. The ATmega32 microcontroller processes the GPS data and displays the location on the 16x2 LED screen.
 3. The 📡 SIM900A GPRS module establishes a connection with ThingSpeak and transmits the location data to a specific channel.
 4. The process repeats every 5 minutes, providing regular updates to the ThingSpeak channel.
+
+![Device](images/device.png)
+   
 ![Screenshot](images/Screenshot%202023-12-17%20121357.png)
 
 ## Setup and Configuration
