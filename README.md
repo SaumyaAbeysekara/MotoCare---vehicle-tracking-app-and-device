@@ -33,7 +33,7 @@ This exciting project involves the development of a GPS tracker using the mighty
 <p style="margin-bottom: 20px;"></p>
 
 <p align="center">
-  <img src="images/Screenshot%202023-12-17%20121357.png" alt="Screenshot" width="400" />
+  <img src="images/Screenshot%202023-12-17%20121357.png" alt="Screenshot" width="600" hieght ="200" />
   <br>
   <em>After Uploading to ThingSpeak Channel</em>
 </p>
