@@ -14,7 +14,7 @@ This project involves the development of a GPS tracker using ATmega32 microcontr
 - NEO-6M GPS module for accurate positioning.
 - SIM900A GPRS module for data transmission.
 - 16x2 LED display for on-device information.
-- [Add more components...]
+
 
 ## How it Works
 1. The NEO-6M GPS module captures satellite signals and calculates real-time latitude and longitude coordinates.
