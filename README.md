@@ -2,8 +2,7 @@
 
 
 
-![Device](images/device.jpg)
-![Screenshot](images/Screenshot%202023-12-17%20121357.png)
+
 ## Overview
 This exciting project involves the development of a GPS tracker using the mighty ATmega32 microcontroller, the accurate NEO-6M GPS module, the efficient SIM900A GPRS module, and a sleek 16x2 LED display. The tracker is designed to 🛰️ obtain real-time location information from GPS satellites, display the coordinates on an LED screen, and transmit the data to ThingSpeak channel for 🌐 remote monitoring.
 
@@ -24,8 +23,7 @@ This exciting project involves the development of a GPS tracker using the mighty
 2. The ATmega32 microcontroller processes the GPS data and displays the location on the 16x2 LED screen.
 3. The 📡 SIM900A GPRS module establishes a connection with ThingSpeak and transmits the location data to a specific channel.
 4. The process repeats every 5 minutes, providing regular updates to the ThingSpeak channel.
-
- ![Screenshot](images/Screenshot 2023-12-17 121357.png) 
+![Screenshot](images/Screenshot%202023-12-17%20121357.png)
 
 ## Setup and Configuration
 1. Connect the 📡 NEO-6M GPS module to the designated pins on the ATmega32 microcontroller.
